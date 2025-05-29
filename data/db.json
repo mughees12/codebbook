@@ -1,0 +1,11 @@
+{
+  "products": [],
+  "users": [
+    {
+      "email": "shubham@gmail.com",
+      "password": "$2a$10$w62Of7hITil4qfibi6pkWe0pVlXUPkT2rwsaUSMGny2zfk72TNNtq",
+      "name": "Shubham",
+      "id": 1
+    }
+  ]
+}
